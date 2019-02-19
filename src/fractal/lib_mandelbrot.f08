@@ -1,6 +1,3 @@
-! NOT TESTED YET
-! --------------
-
 MODULE lib_mandelbrot
     
     IMPLICIT NONE
